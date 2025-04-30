@@ -25,8 +25,4 @@ The dataset used is publicly available on Kaggle and contains MRI scans categori
 - TensorFlow / Keras
 - NumPy, Matplotlib, scikit-learn
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/yourusername/alzheimers-detection-cnn.git
-cd alzheimers-detection-cnn
-python model.py
+
